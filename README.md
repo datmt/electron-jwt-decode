@@ -1,6 +1,6 @@
 # jwt-decoder
 
-> An electron-vue project
+> A jwt decode, inpsired by slow jwt.io on 30/06/2021
 
 #### Build Setup
 
@@ -12,7 +12,7 @@ npm install
 npm run dev
 
 # build electron application for production
-npm run build
+npm run pack-file
 
 # run unit & end-to-end tests
 npm test
